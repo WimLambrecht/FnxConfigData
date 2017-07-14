@@ -1,0 +1,6 @@
+---
+# Location of the Eureka (Service Discovery Server)
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8010/eureka/
