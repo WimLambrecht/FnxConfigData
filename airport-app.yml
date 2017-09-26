@@ -4,4 +4,4 @@ db:
     username: wil
     password: nlxup
 alc:
-  motd: test-default
+  motd: test-default_2
