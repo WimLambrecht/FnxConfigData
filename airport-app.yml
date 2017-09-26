@@ -3,3 +3,5 @@ db:
   fnx:
     username: wil
     password: nlxup
+alc:
+  motd: test-default
